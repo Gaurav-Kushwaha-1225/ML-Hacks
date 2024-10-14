@@ -6,6 +6,10 @@
 
 <a href="https://drive.google.com/file/d/1xKYxOXRSxPkcmBxjY7zqjGtH-5Qmrcfi/view?usp=sharing">Video Explanation 2</a>
 
+## Output
+
+<img src="output.png" >
+
 ## How to run the repo
 
 - Upload the `Hog RAGger.ipynb` file to google colab.
