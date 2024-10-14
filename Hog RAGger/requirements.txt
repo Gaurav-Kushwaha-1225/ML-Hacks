@@ -1,0 +1,13 @@
+json
+numpy 
+faiss
+transformers
+sklearn
+re
+pandas
+sklearn.linear_model
+sklearn.pipeline
+sklearn.preprocessing 
+sentence_transformers
+faiss-cpu 
+faiss-gpu

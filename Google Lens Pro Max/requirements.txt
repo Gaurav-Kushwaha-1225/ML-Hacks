@@ -1,0 +1,12 @@
+duckduckgo-search
+tenacity
+transformers
+PIL
+torch
+requests
+io
+bs4
+matplotlib
+urllib.parse
+duckduckgo_search
+tenacity
