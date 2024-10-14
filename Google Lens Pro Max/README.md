@@ -4,6 +4,10 @@
 
 <a href="https://drive.google.com/file/d/1v3ZWQDU2ENQJydZTf9OWXLSYs0kRDjiO/view?usp=sharing">Video Explanation</a>
 
+## Output
+
+<img src="output.png" >
+
 ## How to run the repo
 
 - Upload the `Google_Lens_Pro_Max.ipynb` file to google colab.
