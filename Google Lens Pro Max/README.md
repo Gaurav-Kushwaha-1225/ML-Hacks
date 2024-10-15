@@ -17,8 +17,8 @@
 ## Tech Stack
 
 - Python
-- SerpAPI for searches using Yahoo Domain
-- DINo and CLIP models in python transformer library for finding similar images.
+- DuckDuckGo Python Module for web searching 
+- DINO and CLIP models in python transformer library for finding similar images.
 - Hugging Face - MoonDream2
 
 ## Requirements.txt
